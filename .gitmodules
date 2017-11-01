@@ -4,3 +4,6 @@
 [submodule "rosflight_plugins"]
 	path = rosflight_plugins
 	url = https://github.com/byu-magicc/rosflight_plugins.git
+[submodule "EKF-SLAM"]
+	path = EKF-SLAM
+	url = https://github.com/mmmfarrell/EKF-SLAM.git
