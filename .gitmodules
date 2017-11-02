@@ -7,3 +7,6 @@
 [submodule "EKF-SLAM"]
 	path = EKF-SLAM
 	url = https://github.com/mmmfarrell/EKF-SLAM.git
+[submodule "aruco_localization"]
+	path = aruco_localization
+	url = https://github.com/plusk01/aruco_localization.git
