@@ -1,0 +1,6 @@
+# EKFSLAM_ws
+Work space with the necessary packages to run our EKF SLAM.
+
+mkdir slam_ws
+cd slam_ws
+git clone https://github.com/mmmfarrell/EKFSLAM_ws.git src
