@@ -10,3 +10,6 @@
 [submodule "aruco_localization"]
 	path = aruco_localization
 	url = https://github.com/plusk01/aruco_localization.git
+[submodule "magicc_sim"]
+	path = magicc_sim
+	url = https://github.com/byu-magicc/magicc_sim.git
